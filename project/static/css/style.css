@@ -1,0 +1,165 @@
+/*
+ﺏ
+Copyright [2022] Şefik Efe Altınoluk
+
+Licensed under the GNU GENERAL PUBLIC LICENSE Version 3.0 (the "License")
+You may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+https://www.gnu.org/licenses/gpl-3.0.html
+
+This file is a part of project Wi-Phi©
+For more details, see https://github.com/f4T1H21/Wi-Phi
+
+ATTENTION:
+Most of the css is removed as an ethical precaution.
+Without these, the html won't work properly.
+*/
+
+#form1{
+	margin-top:17px;
+	width:355px;
+	height:340px;
+    padding-top:40px;
+	background:#f7f7f7;
+	box-shadow: 0px 1px 1px 1px #c6c1c1;
+}
+#form-img{
+	width:99px;
+	height:99px;
+}
+#mailbox{
+	width:270px;
+	height:42px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	font-size:18px;
+	margin-top:20px;
+	border-width: 0px;
+	border-style:solid;
+	border-color: blue;
+}
+#passwordbox{
+	width:270px;
+	height:42px;
+	border-radius:5px 5px 5px 5px;
+	background:white;
+	font-size:18px;
+	margin-top:2px;
+	border-width: 0px;
+	border-style:solid;
+	border-color: blue;
+}
+#checkbox{
+	margin-left: -164px;
+	margin-top:5px;
+	font-family:Roboto;
+	font-size:15px;
+	color:gray;
+	/*cursor:pointer;*/
+}
+#button2{
+	width:270px;
+	height:35px;
+	margin-top:20px;
+	background:#498af2;
+	font-family:Roboto;
+	font-size:17px;
+	font-weight: bold;
+	color:white;
+	border-radius:5px 5px 5px 5px;
+	border-width: 1px;
+	border-style:solid;
+	border-color: gray;
+	cursor:pointer;
+	outline:none;
+}
+#info3{
+	float:right;
+	margin-top:10px;
+	font-size:13px;
+	font-family: 'Open Sans', sans-serif;
+	color:#498af2;
+	padding-right:42px;
+	font-weight:bold;
+}
+#info3 a{
+	color:#498af2;
+	text-decoration:none;
+}
+#info4{
+	margin-top:25px;
+	font-size:13px;
+	font-family: 'Open Sans', sans-serif;	
+	font-weight:bold;
+}
+#info4 a{
+	color:#498af2;
+	text-decoration:none;
+}
+#info5{
+	margin-top:30px;
+	font-size:13px;
+	font-family: 'Open Sans', sans-serif;
+	color:#87898b;
+	font-weight:bold;
+}
+#logo2{
+	margin-top:10px;
+	height:27px;
+	width:243px;
+}
+#bottom {
+	float:left;
+	padding:0px;
+	margin:0px;
+}
+#bottom ul{
+	list-style: none;	
+}
+#bottom ul li{
+	float:left;
+	margin-left:20px;
+}
+
+@media screen and (max-width:600px) {
+	#logo{
+		margin-top:10px;
+		height:38px;
+		width:360px;
+	}
+	#info1{
+		width:360px;
+		margin-top:25px;
+		font-family: 'Open Sans', sans-serif;
+		font-size:30px;
+		color:#555557;
+		
+	}
+	#info2{
+		width:350px;
+		margin-top:17px;
+		font-family: 'Open Sans', sans-serif;
+		font-size:18px;
+		font-weight:bold;
+		color:#555557;
+	}
+	#info4{
+		margin-top:10px;
+		font-size:12px;
+		font-family: 'Open Sans', sans-serif;	
+		font-weight:bold;
+	}
+	#info5{
+		margin-top:15px;
+		font-size:13px;
+		font-family: 'Open Sans', sans-serif;
+		color:#87898b;
+		font-weight:bold;
+	}
+	#logo2{
+		margin-top:5px;
+		height:27px;
+		width:243px;
+	}
+}
