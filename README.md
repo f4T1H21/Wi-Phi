@@ -16,6 +16,7 @@ See [LICENSE](LICENSE) for more details.
 
 ## About the Project
 __`Wi-Phi`__ is an automatic `phishing` `system` fully integrated to  wireless `IoT` (Internet of Things) boards.<br>
+It can be thought like an advanced, feature-rich `Wifi Pineapple`.<br>
 __`Wi-Phi`__ is able to phish users who run at least one of the following softwares:
 
 - IOS
