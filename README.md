@@ -5,7 +5,7 @@
 Do not try this software on the users/systems that you have no legal permission. Usage of `Wi-Phi` for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. I assume no liability and are not responsible for any misuse or damage caused by this software, documentation and anything in this repository.
 
 ## Ethical Notice
-Because `Wi-Phi` can be used maliciously, I removed critical parts of the software. [Contact me](https://www.linkedin.com/in/%C5%9Fefik-efe/) from LinkedIn for any business/academical/educational cases that you need the whole working code.
+Because `Wi-Phi` can be used maliciously, I removed critical parts of the software. [Contact me](https://www.linkedin.com/in/%C5%9Fefik-efe/) from LinkedIn for any business/academical/educational cases in which you need the whole working code.
 
 ## Copyright Notice
 © 2022 Şefik Efe Altınoluk, All rights reserved.
