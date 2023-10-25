@@ -7,9 +7,6 @@ Do not try this software on the users/systems that you have no legal permission.
 ## READ THIS ETHICAL NOTICE
 __(SEE [#4](https://github.com/f4T1H21/Wi-Phi/issues/4#issuecomment-1645622242))__ Because `Wi-Phi` can be used maliciously, I don't share most parts of the source code. [Contact me](https://www.linkedin.com/in/%C5%9Fefik-efe/) from LinkedIn for any business/academical/educational cases in which you need the whole working code.
 
-## Copyright Notice
-© 2022 Şefik Efe Altınoluk, All rights reserved.
-
 ## LICENSE
 This project is licensed under the Gnu General Public License Version 3.0<br>
 See [LICENSE](LICENSE) for more details.
