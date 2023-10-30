@@ -1,4 +1,3 @@
-# ﺏ
 # Copyright [2022] Şefik Efe Altınoluk
 #
 # This file is a part of project Wi-Phi©
