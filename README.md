@@ -1,5 +1,5 @@
 # Wi-Phi
-─ ___An IoT Integrated Fully Automatic WIreless PHIshing System by Şefik Efe Altınoluk___ ─
+─ ___An IoT Integrated Fully Automatic WIreless PHIshing System___ ─
 
 ## Legal Disclaimer
 Do not try this software on the users/systems that you have no legal permission. Usage of `Wi-Phi` for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. I assume no liability and are not responsible for any misuse or damage caused by this software, documentation and anything in this repository.
@@ -172,4 +172,4 @@ The whole period of learning, implementing what I learned to real life, fixing b
 
 <br>
 
-─ ___Written by Şefik Efe Altınoluk___ ─
+─ ___Written by f4T1H21___ ─
